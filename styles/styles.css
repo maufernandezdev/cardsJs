@@ -26,6 +26,8 @@ section {
     width: 100%;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    max-width: 750px;
 }
 
 section div {
@@ -47,6 +49,7 @@ section div h4{
     margin: 0.5em 0em;
     color:#333;
     font-weight: normal;
+    height: 65px;
 }
 
 section div .button{
@@ -65,4 +68,5 @@ section div:hover{
 
 img{
     width: 100%;
+    max-height: 200px;
 }
