@@ -10,6 +10,10 @@ The project has the following branches:
 - Dinamic HTML creation using Js
 - Assigning events to buttons 
 
+## fetch
+
+- fetching products of [Fake Store API](https://fakestoreapi.com)
+
 ## 👨‍🚀 Show your support
 
 Give a ⭐️ if this project helped you!
